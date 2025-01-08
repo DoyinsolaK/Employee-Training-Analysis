@@ -1,5 +1,5 @@
 # Employee-Training-Analysis
-INTRODUCTION
+INTRODUCTION:
 This data was used to evaluate the effectiveness of employee training, assess the impact on the performance of the trainees and also identify trends in their participation.
 
 The Key questions asked in this analysis are 
@@ -12,13 +12,16 @@ The Key questions asked in this analysis are
 The dataset was sourced from the internet.
 
 
-DATASET DESCRIPTION
+
+DATASET DESCRIPTION:
 In this project I analyzed the training of an employee data of an unknown company. The dataset has 3000 rows and 10 columns, the columns comprises of the Employee ID, Training Date, Training Program Name, Training Type, Training Outcome, Trainer, Location, Training Duration in days and hours and the Training Cost.
 Noticed there was no column with the heading “Training ID” which I feel it’s not supposed to be because the trainees are supposed to have training id attached to their registration asides their employee ID
 
 The training date is from January 2022 to December 2023.
-DATA CLEANING AND PREPARATION
 
+
+
+DATA CLEANING AND PREPARATION:
 This particular data didn’t need much cleaning but I took this step.
 -	Changed the training days into hours to have an idea of how many hours the trainee spent on their training.
 -	Removed the empty rows that was added to the dataset which had no information.
@@ -26,7 +29,7 @@ This particular data didn’t need much cleaning but I took this step.
 
 
 
-KEY FINDINGS 
+KEY FINDINGS:
 -	The number of employee that Passed are 739, Failed are 716, Completed are 770, Incomplete are 775
 
 -	The number of employees that signed up for Communication Skills are 673, Customer Service are 565, Leadership Development are 574, Project Management are 609, and Technical Skills are 579.
@@ -37,14 +40,19 @@ KEY FINDINGS
 -	The number of employees that went for training for 1 day is 619, 2 days is 600, 3 days is 611, 4 days is 575 and 5 days is 595.
 
 -	The number of employee for external training is 1,491 and internal training is 1,509.
-INSIGHTS AND INTERPRETATION
+
+
+
+INSIGHTS AND INTERPRETATION:
 -	Training Impact: Employees that didn’t complete the training were more by 25.83%. I feel this isn’t good for the employees, as this can affect their promotion or career growth in the company.
 -	Training Gaps: The percentage of the employees that didn’t complete and failed their training are 25.83% and 23.87% respectively. 
 -	Training Program: Employees who took training on communication skills 22.43%, project management 20.30%, technical skills 19.30%, leadership development 19.13% and customer service 18.83%.
 -	The number of employee for external training is 1,491 which is 49.70% and internal training is 1,509 which is 50.30%
 
 
-RECOMMENDATION
+
+
+RECOMMENDATION:
 Based on the insights provided, here are some recommendations for improving the training program and addressing the gaps:
 -	Address the High Percentage of Employees Not Completing Training (25.83%)
 Investigate the reasons behind the high percentage of employees not completing the training. Is it due to workload, lack of engagement, or insufficient time allocation? Implement solutions like: 
@@ -58,11 +66,12 @@ Training Content Evaluation: Review the training materials and delivery methods 
 Pre-Training Assessments: Implement assessments before training to understand employee knowledge gaps and tailor the training accordingly.
 Additional Support for Struggling Employees: Provide follow-up sessions, mentoring, or coaching for employees who failed to help them understand the material better.
 
+
+
 -	Focus on the Most Common Training Programs
 The most common training areas (communication skills, project management, technical skills, leadership development, and customer service) suggest these are key areas for growth in the organization. 
 Deepen Training in Key Areas: Based on the distribution of employees taking different programs, consider offering more advanced or specialized versions of these trainings to keep employees engaged.
 Cross-Training Opportunities: Encourage employees to take training in areas outside their primary roles to broaden their skillsets and support career development.
-
 
 
 
@@ -72,6 +81,7 @@ The split between external (49.70%) and internal (50.30%) training suggests a ba
 Leverage Internal Expertise: Use internal experts to provide training on organizational-specific topics that external trainers might not cover.
 Evaluate External Training Effectiveness: Ensure that external training providers are delivering high-quality content and that it aligns with the company's goals.
 Hybrid Training Approach: Consider combining both internal and external training for more comprehensive skill development, offering flexibility and varied learning experiences.
+
 
 
 
@@ -89,6 +99,7 @@ By addressing these issues, the company can improve overall training completion 
 
 
 
-CONCLUSION
 
+
+CONCLUSION:
 The employee training data highlights several important areas of focus, including high training incompletion and failure rates, but also significant interest in key areas like communication skills and project management. By addressing these issues, offering more tailored support, and aligning training with career progression opportunities, the company can improve training outcomes and better prepare employees for career advancement. 
